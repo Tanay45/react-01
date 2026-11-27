@@ -1,0 +1,26 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'halvetica neue', sans-serif;
+  color: #fff;
+}
+html, body{
+  width: 100%;
+  height: 100%;
+  background-color: #111;
+}
+
+.Card{
+  background-color: red;
+  border-radius: 10px;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 1px solid white;
+}
+
+.Navbar{
+  background-color: skyblue;
+  padding: 10px;
+  margin: 5px;
+}
